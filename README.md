@@ -1,6 +1,6 @@
 ## Creative Coding: Python Summer 2021
 
-This is the class github repository for Python Summer 2021.
+This is the class github repository for Creative Coding Python Summer 2021.
 
 For each week, there will be a corresponding folder with the in-class notebooks and exercise notebooks. 
 
