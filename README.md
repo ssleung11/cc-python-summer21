@@ -8,7 +8,7 @@ Please clone this repository and ```git pull``` before class on Monday. Please r
 
 ----------------------------
 
-Class Syllabus: [here]()
+Class Syllabus: [here](https://docs.google.com/document/d/1V1i6v06bjq6cdAui4haDcAblqddPChIxC4G84Ci0ZPE/edit?usp=sharing)
 
 Read this [Notion page](https://www.notion.so/anaconda-jupter-notebook-9315faf27f41489aa06806a2851c04e2) on installing Anaconda and Jupyter Notebook.
 
